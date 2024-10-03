@@ -1,4 +1,4 @@
-# nadaaladdin.github.io-Portfolio
+# Nada Aladdin Abdelfatah
 
 **Master of Science** (M.S.) in **Computer Engineering** Feb 2022 - 2025
 Jordan University of Science and Technology
