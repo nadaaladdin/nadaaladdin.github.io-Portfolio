@@ -1,10 +1,10 @@
 # Nada Aladdin Abdelfatah
 
 **Master of Science** (M.S.) in **Computer Engineering** Feb 2022 - 2025
-Jordan University of Science and Technology
+Jordan University of Science and Technology (JUST)
 
 **Bachelor of Science** (B.S.) in **Computer Engineering** Sep 2017 - Feb 2022
-Jordan University of Science and Technology
+Jordan University of Science and Technology (JUST)
 
 **Skills:**
 
