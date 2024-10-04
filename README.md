@@ -39,6 +39,16 @@ Developed a multifunctional task management system, which included features such
 • Purpose: The PRD helps organize medication intake according to doctor-prescribed schedules, reducing the risk of missed doses and medication errors.
 • Impact: Aims to reduce medical errors, decrease case fatality rates, and provide peace of mind for both patients and caregivers by ensuring medications are taken as prescribed.
 
+-------------------------------
+## Research Interests:
+
+- Computer Architecture
+- Operating Systems
+- High-Performance Computing (HPC)
+- Parallel Computing
+- Memory Management
+- Machine Learning
+- Deep Learning
 
 -------------------------------
 ## Skills:
