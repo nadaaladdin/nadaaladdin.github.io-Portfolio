@@ -74,4 +74,9 @@ Developed a multifunctional task management system, which included features such
           - Parallel Programming:
               OpenMP for parallelizing code in C.
 
+------------------------------------
+## References: 
+Available upon request
+
+
               
