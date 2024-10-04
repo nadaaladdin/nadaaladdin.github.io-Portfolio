@@ -42,7 +42,9 @@ Developed a multifunctional task management system, which included features such
 -------------------------------
 ## Research Interests:
 
+- Non-Volatile Main Memory
 - Computer Architecture
+- Software Systems
 - Operating Systems
 - High-Performance Computing (HPC)
 - Parallel Computing
