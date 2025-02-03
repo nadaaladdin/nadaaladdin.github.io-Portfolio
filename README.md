@@ -3,7 +3,7 @@
 
 ## Education 
 
-**Master of Science** (M.S.) in **Computer Engineering** Jan 2022 - 2025
+**Master of Science** (M.S.) in **Computer Engineering** Jan 2022 - Feb 2025
 Jordan University of Science and Technology (JUST)
 
 **Bachelor of Science** (B.S.) in **Computer Engineering** Sep 2017 - Feb 2022
@@ -21,7 +21,7 @@ Jordan University of Science and Technology (JUST)
   Results: Achieved an R-squared value of 99% with an Artificial Neural Network (ANN). Secured an R-squared value of 97% with a Feed-forward Neural Network (FNN).
   
 - **Task Management Software System using React.js and Tailwind CSS**, System Software and Design Project - 2023 : 
-Developed a multifunctional task management system, which included features such as user authentication, task and project management, team collaboration tools, notifications, real-time chat, and analytics. Implemented a RESTful API to ensure cross-platform compatibility and enable integration with other systems. Despite having no prior web application development experience, I successfully learned and applied new technologies that demonstrates strong problem-solving skills and adaptability to create an effective and secure project management tool.
+Developed a multifunctional task management system, which included features such as user authentication, task and project management, team collaboration tools, notifications, real-time chat, and analytics. Implemented a RESTful API to ensure cross-platform compatibility and enable integration with other systems. Despite having no prior web application development experience, I successfully learned and applied new technologies that demonstrate strong problem-solving skills and adaptability to create an effective and secure project management tool.
 
 - **Enhancing Topological Sort using OpenMP**, Parallel Computing Course Project - 2023 :
   Objective: a research study focused on optimizing the performance of the topological sort algorithm by leveraging parallel processing techniques.
@@ -35,7 +35,7 @@ Developed a multifunctional task management system, which included features such
   Designed and simulated a logic circuit using VHDL. Developed the RTL schematic in Vivado 2020.2, then verified the design through simulation.
   Tools: VHDL, Vivado 2020.2, Simulation Software.
   
-- **Graduation Project: Pill Reminder Device (PRD)** - 2021 : Designed and developed a Pill Reminder Device using Arduino to assist elderly patients with chronic diseases in managing their medication schedules effectively.
+- **Graduation Project: Pill Reminder Device (PRD)** - 2021: Designed and developed a Pill Reminder Device using Arduino to assist elderly patients with chronic diseases in managing their medication schedules effectively.
 • Purpose: The PRD helps organize medication intake according to doctor-prescribed schedules, reducing the risk of missed doses and medication errors.
 • Impact: Aims to reduce medical errors, decrease case fatality rates, and provide peace of mind for both patients and caregivers by ensuring medications are taken as prescribed.
 
@@ -65,7 +65,7 @@ Developed a multifunctional task management system, which included features such
               Embedded Systems, Microcontrollers, FPGA Programming, Computer Architecture.
               
           - Tools and Technologies:
-          GitHub, MATLAB, Visual Studio, Latex.
+              GitHub, MATLAB, Visual Studio, Latex.
           
           - Simulation Tools:
               Gem5, ChampSim (Used for research).    
